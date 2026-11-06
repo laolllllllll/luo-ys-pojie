@@ -1,4 +1,4 @@
-# DonkeyYs （萝you 社 破解版）
+# DonkeyYs （lys破解版）
 
 ## 使用方法
 - 打开软件 用node生成卡密（签名设备id+时间戳+有效期）
